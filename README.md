@@ -1,3 +1,4 @@
 # hello-world
 This is the first line.
-This is the secong line.
+This is the second line.
+This is the third line.
